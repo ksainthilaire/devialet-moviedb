@@ -2,10 +2,10 @@
 
 
 # Table of Contents
-1. [Application Architecture](#example)
-2. [Third-party libraries](#example2)
-3. [Negative aspects of the project/ways for improvement](#third-example)
-4. [Thanks](#fourth-examplehttpwwwfourthexamplecom)
+1. [Application Architecture]
+2. [Third-party libraries]
+3. [Negative aspects of the project/ways for improvement]
+4. [Thanks]
 
 
 
